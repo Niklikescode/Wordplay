@@ -22,7 +22,7 @@ This is a simple tool to check if words or characters are either Palindromes, An
 - Ensure Enviroment Variables are configured (Windows) -
     https://dinocajic.medium.com/add-xampp-php-to-environment-variables-in-windows-10-af20a765b0ce
 
-- Clone the repository from GitHub
+- Clone the repository - https://github.com/Niklikescode/Wordplay.git
 
 - Ensure the Project Folder is saved to c://xampp/htdocs
 

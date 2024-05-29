@@ -2,13 +2,13 @@ body {
   font-family: Arial, sans-serif;
   margin: auto;
   padding: 0;
-  background-color: #f0f0f0;
+  background-color: #ece0ee;
   max-width: 50%;
 }
 
 h1 {
   margin-top: 10px;
-  background-color: #547dee;
+  background-color: #4b74e6;
   color: #fff;
   padding: 10px;
   border-radius: 5px;

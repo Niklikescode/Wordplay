@@ -3,6 +3,9 @@
 
 This is a simple tool to check if words or characters are either Palindromes, Anagrams or Pangrams.
 
+![image](https://github.com/Niklikescode/Wordplay/assets/142637426/2df9722c-b9d6-41f4-938e-4afb24d0165c)
+
+
 
 
 ## Features 📱
